@@ -1,4 +1,6 @@
-**Hi there!**
+## Hi there!
+
+[A picture of me!]()
 
 I'm Joseph Godinez, but you can call me Joe. You've found the part of my Github page where you can learn a bit more about me and what I have done since I started my undergraduate career. 
 
