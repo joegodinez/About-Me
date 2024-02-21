@@ -5,3 +5,7 @@ I'm Joseph Godinez, but you can call me Joe. You've found the part of my Github 
 If you're looking for:
 - A quick, one-page resume -> [quick_resume.pdf](quick_resume.pdf)
 - A longer, more detailed resume -> [long_resume.pdf](long_resume.pdf)
+
+If you're looking to contact me:
+- Email (until May 2024): joseph.godinez@maine.edu
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/joseph-godinez-05a71920b/)
