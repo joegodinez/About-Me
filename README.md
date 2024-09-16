@@ -7,5 +7,5 @@ If you're looking for:
 - A longer, more detailed resume -> [long_resume.pdf](long_resume.pdf)
 
 If you're looking to contact me:
-- Email (until May 2024): joseph.godinez@maine.edu
+- Email: jgodinez@villanova.edu
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/joseph-godinez-05a71920b/)
